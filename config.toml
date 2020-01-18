@@ -1,8 +1,8 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "hugo-theme-hello-friend"
+theme = "hello-friend"
 paginate = 5
-
+hrefTargetBlank = true
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "post"
@@ -12,12 +12,17 @@ paginate = 5
   showMenuItems = 5
   # Enable to show reading time in minutes for posts
   showReadingTime = true
+  
+  author = "Valdecir Carvalho"
+  authorImage = "/img/valdecir.png"
+  logo_1 = "/img/veeam-vanguard-logo.png"
+  logo_2 = "/img/vmware-vexpert-logo.png" 
 
 [taxonomies]
 series = "series"
 
-#[blackfriday]
-#hrefTargetBlank = true
+
+
 
 [languages]
   [languages.en]
