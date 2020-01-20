@@ -18,6 +18,10 @@ hrefTargetBlank = true
   logo_1 = "/img/veeam-vanguard-logo.png"
   logo_2 = "/img/vmware-vexpert-logo.png" 
 
+[blackfriday]
+extensions = ["hardLineBreak"]
+
+
 [taxonomies]
 series = "series"
 
@@ -52,12 +56,12 @@ series = "series"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "sobre"
-        url = "/sobre"
+        url = "/sobre/"
 		weight = 2
       [[languages.en.menu.main]]
         identifier = "arquivo"
         name = "arquivo"
-        url = "/archive"
+        url = "/archive/"
 		weight = 1
 #     [[languages.en.menu.main]]
 #        identifier = "meu-homelab"

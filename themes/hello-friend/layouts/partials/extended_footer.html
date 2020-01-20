@@ -1,4 +1,45 @@
 <!--
 If you want to include any custom html just before </body>, put it in /layouts/partials/extended_footer.html
 Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/partials/extended_footer.html doesn't exist.
+
+<img  src="/img/veeam-vanguard-logo.png" alt="peace dove" />
+<img src="/img/vmware-vexpert-logo.png" alt="peace dove" />
+<img  src="/img/veeam-vanguard-logo.png" alt="peace dove" />
 -->
+
+<hr>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+
+<div class="row">
+  <div class="column"><a href="https://www.veeam.com/vanguard.html" alt="Veeam Vanguard" target="_blank"> <img src="/img/veeam-vanguard-logo.png" alt="Veeam Vanguard" /> </a> </div>
+  <div class="column"><a href="#" alt="Blog Homelaber"> <img src="/img/banner-homelaber-600x130.png" alt="Blog Homelaber" /> </a> </div>
+  <div class="column"><a href="https://vexpert.vmware.com/directory/91" alt="VMware vExpert" target="_blank"> <img src="/img/vmware-vexpert-logo.png" alt="VMware vExpert" /> </a> </div>
+
+</div>
+
+
+<footer class="footer">
+  <div class="footer__inner">
+      <div class="copyright copyright--user"> last update: {{ now.Format "2-Jan-2006 @ 3:04pm" }}
+	    </div>
+    </div>
+</footer>
