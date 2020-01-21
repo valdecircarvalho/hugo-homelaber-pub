@@ -31,6 +31,11 @@
 
     <div class="post-content">
       {{ .Content }}
+	 
+	 <!-- Author Box em construcao...-->
+    <!-- {{- partial "author_box.html" . }} -->
+	 
+	 
     </div>
     {{ if eq .Type $.Site.Params.contentTypeName }}
       {{ if or .NextInSection .PrevInSection }}
