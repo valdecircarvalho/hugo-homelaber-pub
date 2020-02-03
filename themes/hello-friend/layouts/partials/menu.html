@@ -1,5 +1,19 @@
 <nav class="menu">
+
+
+
   <ul class="menu__inner menu__inner--desktop">
+  
+    			<li>
+			<a href="https://twitter.com/homelaber" target="_blank"><i class="fab fa-twitter" style="font-size: 1.5em; color: black;"></i></a>
+			</li>
+			<li>
+			<a href="https://www.linkedin.com/in/valdecircarvalho/" target="_blank"><i class="fab fa-linkedin" style="font-size: 1.5em; color: black;"></i></a>
+			</li>
+			<li>
+			<a href="https://github.com/valdecircarvalho" target="_blank"><i class="fab fa-github"style="font-size: 1.5em; color: black;"></i></a>
+			</li>
+
     {{ if or $.Site.Params.showMenuItems (eq $.Site.Params.showMenuItems 0) }}
       {{ range first $.Site.Params.showMenuItems $.Site.Menus.main }}
         {{ if not .HasChildren }}
@@ -19,7 +33,10 @@
                 <li><a href="{{ .URL }}">{{ .Name }}</a></li>
               {{ end }}
             {{ end }}
+			
+			
           </ul>
+		  
         </ul>
       {{ end }}
     {{ else }}
@@ -32,10 +49,24 @@
   </ul>
 
   <ul class="menu__inner menu__inner--mobile">
+  
+    			<li>
+			<a href="https://twitter.com/homelaber" target="_blank"><i class="fab fa-twitter" style="font-size: 1.5em; color: black;"></i></a>
+			</li>
+			<li>
+			<a href="https://www.linkedin.com/in/valdecircarvalho/" target="_blank"><i class="fab fa-linkedin" style="font-size: 1.5em; color: black;"></i></a>
+			</li>
+			<li>
+			<a href="https://github.com/valdecircarvalho" target="_blank"><i class="fab fa-github"style="font-size: 1.5em; color: black;"></i></a>
+			</li>
+			
     {{ range $.Site.Menus.main }}
       {{ if not .HasChildren }}
         <li><a href="{{ .URL }}">{{ .Name }}</a></li>
       {{ end }}
     {{ end }}
   </ul>
+
+
+
 </nav>
