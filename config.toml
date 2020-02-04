@@ -13,13 +13,41 @@ hrefTargetBlank = true
   showMenuItems = 5
   # Enable to show reading time in minutes for posts
   showReadingTime = true
-  
+    socialShare = true ## mostrar o social share
   author = "Valdecir Carvalho"
   authorImage = "/img/valdecir.png"
   logo_1 = "/img/veeam-vanguard-logo.png"
   logo_2 = "/img/vmware-vexpert-logo.png" 
   
-
+[Author]
+  name = "Some Person"
+  website = "yourwebsite.com"
+  email = "youremail@domain.com"
+  facebook = "username"
+  github = "valdecircarvalho"
+  gitlab = "username"
+  bitbucket = "username"
+  twitter = "@homelaber"
+  reddit = "username"
+  linkedin = "valdecircarvalho"
+  xing = "username"
+  stackoverflow = "users/XXXXXXX/username"
+  snapchat = "username"
+  instagram = "username"
+  youtube = "user/username" # or channel/channelname
+  soundcloud = "username"
+  spotify = "username"
+  bandcamp = "username"
+  itchio = "username"
+  vk = "username"
+  paypal = "username"
+  telegram = "vcarva"
+  500px = "username"
+  codepen = "username"
+  mastodon = "url"
+  kaggle = "username"
+  weibo = "username"
+  slack = "username"
 
 [blackfriday]
   angledQuotes = true
