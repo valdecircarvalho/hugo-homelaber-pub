@@ -18,6 +18,8 @@ hrefTargetBlank = true
   authorImage = "/img/valdecir.png"
   logo_1 = "/img/veeam-vanguard-logo.png"
   logo_2 = "/img/vmware-vexpert-logo.png" 
+  
+
 
 [blackfriday]
   angledQuotes = true
@@ -41,6 +43,7 @@ series = "series"
     newerPosts = "Novos posts"
     olderPosts = "Posts antigos"
     minuteReadingTime = "min lendo"
+	wordCount = "palavras"
     dateFormatSingle = "02-01-2006"
     dateFormatList = "02-01-2006"
 

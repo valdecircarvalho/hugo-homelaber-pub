@@ -1,0 +1,26 @@
+{{ $title := .Title }}
+{{ $url := printf "%s" .Permalink }}
+{{ $body := print $title ", by " .Site.Title "\n" .Params.description "\n\n" $url "\n" }}
+{{ $tags := .Params.tags }}
+
+<i>Compartilhe: </i> 
+
+			<span style="font-size: 1em; color: Gray;">
+			<a href="https://twitter.com/intent/tweet/?url={{ $url }}&text={{ $title }}&via=homelaber&hashtags={{ $tags }}" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
+			</span>
+			<span style="font-size: 1em; color: Gray;">
+			<a href="https://www.linkedin.com/in/valdecircarvalho/" target="_blank"><i class="fab fa-linkedin"></i></a>
+			</span>
+			<span style="font-size: 1em; color: Gray;">
+			<a href="https://github.com/valdecircarvalho" target="_blank"><i class="fab fa-github"></i></a>
+			</span>
+			<span style="font-size: 1em; color: Gray;">
+			<a href="https://t.me/vcarva" target="_blank"><i class="fab fa-telegram"></i></a>
+			</span>
+			<span style="font-size: 1em; color: Gray;">
+			<a href="http://wa.me/5511952593615" target="_blank"><i class="fab fa-whatsapp"></i></a>
+			</span>
+			<span style="font-size: 1em; color: Gray;">
+			<a href="http://valdecir.me" target="_blank"><i class="fab fa-fort-awesome"></i></a>
+			</span>
+

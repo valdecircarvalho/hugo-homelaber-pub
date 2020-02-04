@@ -2,9 +2,6 @@
 If you want to include any custom html just before </body>, put it in /layouts/partials/extended_footer.html
 Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/partials/extended_footer.html doesn't exist.
 
-<img  src="/img/veeam-vanguard-logo.png" alt="peace dove" />
-<img src="/img/vmware-vexpert-logo.png" alt="peace dove" />
-<img  src="/img/veeam-vanguard-logo.png" alt="peace dove" />
 -->
 
 <hr>
@@ -36,10 +33,15 @@ Do not put anything in this file - it's only here so that hugo won't throw an er
 
 </div>
 
+<hr>
 
 <footer class="footer">
   <div class="footer__inner">
-      <div class="copyright copyright--user"> last update: {{ now.Format "2-Jan-2006 @ 3:04pm" }}
-	    </div>
+      <div class="copyright copyright--user"> Last update: {{ now.Format "2-Jan-2006 @ 3:04pm" }}
+	  </div>
+	  
     </div>
+
+		  <p> This blog is proudly powered by <i class="fas fa-heart" style="color: red;"></i> <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a></p>
+<hr>
 </footer>

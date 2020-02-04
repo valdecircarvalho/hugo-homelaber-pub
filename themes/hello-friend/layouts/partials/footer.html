@@ -2,6 +2,7 @@
   <div class="footer__inner">
     {{ if $.Site.Copyright }}
       <div class="copyright copyright--user">{{ $.Site.Copyright | safeHTML }} </div>
+	  
     {{else}}
       {{ partial "logo.html" . }}
       <div class="copyright">
@@ -10,6 +11,25 @@
       </div>
     {{end}}
   </div>
+  	<p><span style="font-size: 2em; color: Gray;">
+			<a href="https://twitter.com/homelaber" target="_blank"><i class="fab fa-twitter"></i></a>
+			</span>
+			<span style="font-size: 2em; color: Gray;">
+			<a href="https://www.linkedin.com/in/valdecircarvalho/" target="_blank"><i class="fab fa-linkedin"></i></a>
+			</span>
+			<span style="font-size: 2em; color: Gray;">
+			<a href="https://github.com/valdecircarvalho" target="_blank"><i class="fab fa-github"></i></a>
+			</span>
+			<span style="font-size: 2em; color: Gray;">
+			<a href="https://t.me/vcarva" target="_blank"><i class="fab fa-telegram"></i></a>
+			</span>
+			<span style="font-size: 2em; color: Gray;">
+			<a href="http://wa.me/5511952593615" target="_blank"><i class="fab fa-whatsapp"></i></a>
+			</span>
+			<span style="font-size: 2em; color: Gray;">
+			<a href="http://valdecir.me" target="_blank"><i class="fab fa-fort-awesome"></i></a>
+			</span>			
+         </p>
 </footer>
 
 <script src="{{ "assets/main.js" | absURL }}"></script>
