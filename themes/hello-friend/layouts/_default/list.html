@@ -51,8 +51,12 @@
         {{ end }}
       </div>
       <div><a class="read-more button" href="{{.RelPermalink}}">{{ $.Site.Params.ReadMore | default "Read more" }} →</a></div>
+			 {{ partial "share-buttons.html" . }}
     </div>
+
     {{ end }}
+
     {{ partial "pagination.html" . }}
   </div>
+  
 {{ end }}
