@@ -4,6 +4,7 @@ defaultContentLanguage = "br"
 theme = "hello-friend"
 paginate = 5
 hrefTargetBlank = true
+enableRobotsTXT = "true"
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "post"
@@ -18,7 +19,7 @@ hrefTargetBlank = true
   authorImage = "/img/valdecir.png"
   logo_1 = "/img/veeam-vanguard-logo.png"
   logo_2 = "/img/vmware-vexpert-logo.png" 
-  
+ 
 [Author]
   name = "Some Person"
   website = "yourwebsite.com"
@@ -57,6 +58,10 @@ hrefTargetBlank = true
 [taxonomies]
 series = "series"
 
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
 
 [languages]
   [languages.br]
