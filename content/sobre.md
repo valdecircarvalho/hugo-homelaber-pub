@@ -7,10 +7,14 @@ type: page
 url: /sobre/
 ---
 
-![](http://homelaber.com.br/site/wp-content/uploads/2015/03/vc8bit-avatar.png)
+![](/imagens/2015/03/vc8bit-avatar.png)
 
-# Olá! Eu sou o Valdecir Carvalho
+
+
+# Olá! Eu sou o Valdecir Carvalho,
 ### e esse é o meu blog!
+
+O Homelaber nasceu no dia [07/03/2015](/homelaber-brasil) e de lá para cá, posso dizer que a minha vida mudou muito e um dos grandes responsáveis por essa mudança foi esse _bloguinho_.
 
 Trabalho em TI há mais de 15 anos e já fiz bastante coisas nessa área. 
 
@@ -21,8 +25,6 @@ Sou do tipo generalista, aquele cara que tem bastante conhecimento de infraestru
 Minha paixão por Homelabs começou *desde sempre*, mas se tornou um pouco mais séria quando passei a ter contato mais direto com virtualização, especialmente com as ferramentas da VMware.
 
 A ideia inicial desse blog foi de criar e compartilhar conteúdo em Português sobre Homelabs, virtualização, redes, softwares open source, orquestração, cloud e por ai vai, além de servir como uma base de conhecimento e memória para meus estudos e pesquisas.
-
-O Homelab nasceu no dia 07/03/2015 e de lá para cá, posso dizer que a minha vida mudou muito e um dos grandes responsáveis por essa mudança foi esse _bloguinho_.
 
 Já são quase 5 anos, escrevendo aqui com uma certa regularidade e não pretendo parar tão cedo!
 
