@@ -57,6 +57,8 @@ enableRobotsTXT = "true"
 
 [taxonomies]
 series = "series"
+category = "categories"
+tag = "tags"
 
 [sitemap]
   changefreq = "daily"
