@@ -4,7 +4,9 @@ defaultContentLanguage = "br"
 theme = "hello-friend"
 paginate = 5
 hrefTargetBlank = true
-enableRobotsTXT = "true"
+enableRobotsTXT = true
+enableInlineShortcodes = true
+
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "post"

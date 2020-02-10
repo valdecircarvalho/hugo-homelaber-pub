@@ -15,25 +15,39 @@
       <div class="post-meta">
         {{ if .Date }}
           <span class="post-date">
-            {{ .Date.Format ($.Site.Params.DateFormatList | default "2006-01-02") }}
+            <i class="fas fa-calendar-day"></i> {{ .Date.Format ($.Site.Params.DateFormatList | default "2006-01-02") }}
           </span>
         {{ end }}
-        {{ with .Params.Author }}<span class="post-author">— {{ $.Site.Params.WrittenBy | default "Written by" }} {{ . }}</span>{{ end }}
+        {{ with .Params.Author }}
+		<span class="post-author"> — 
+		<i class="fas fa-user-ninja"></i> {{ $.Site.Params.WrittenBy | default "Written by" }} {{ . }}</span>{{ end }}
         {{ if $.Site.Params.ShowReadingTime }}
-          <span class="post-read-time">— {{ .ReadingTime }} {{ $.Site.Params.MinuteReadingTime | default "min read" }}</span>
-		  <span class="post-read-time">— {{ .WordCount }} {{ $.Site.Params.wordCount | default "words" }}</span>
+          <span class="post-read-time" > — <i class="fas fa-hourglass-half"></i> {{ .ReadingTime }} {{ $.Site.Params.MinuteReadingTime | default "min read" }}</span>
+		  <span class="post-read-time"> — <i class="fas fa-book-dead"></i> {{ .WordCount }} {{ $.Site.Params.wordCount | default "words" }}</span>
 
         {{ end }}
       </div>
 
-
+<!--
+Não vai mostrar as tags na home. Somente dentro do post
       {{ if .Params.tags }}
         <span class="post-tags">
           {{ range .Params.tags }}
-            #<a href="{{ (urlize (printf "tags/%s" . )) | absURL }}/">{{ . }}</a>&nbsp;
+            <i class="fas fa-tag"></i>
+			<a href="{{ (urlize (printf "tags/%s" . )) | absURL }}/">{{ . }}</a>&nbsp;
           {{ end }}
         </span>
       {{ end }}
+--> 	  
+      {{ if .Params.tags }}
+        <span class="post-categories">
+          {{ range .Params.categories }}
+            <i class="fas fa-folder-open"></i>
+			<a href="{{ (urlize (printf "categories/%s" . )) | absURL }}/">{{ . }}</a>&nbsp;
+          {{ end }}
+        </span>
+      {{ end }}
+
 
       {{ if .Params.Cover }}
         {{ if .Params.UseRelativeCover }}

@@ -62,7 +62,12 @@ Ao final da PoC é muito importante que você garanta que todos os objetivos def
 
 ## PoC vs Piloto vs Demo
 
-Muitos clientes, costumam fazer muita confusão entre PoC, Piloto e Demo. 
+Muitos clientes, costumam fazer confusão entre PoC, Piloto e Demo. 
+
++ **Demo**
+  - Ocorre antes da PoC. 
+  - Geralmente não há interação do cliente, o fornecedor apresenta as caracteristicas e informações do produto.
+  - Não existe investimento financeiro ou qualquer comprometimento.
 
 + **PoC**
   - É uma atividade mais estruturada, como objetivos claros a serem alcançados.
@@ -76,41 +81,12 @@ Muitos clientes, costumam fazer muita confusão entre PoC, Piloto e Demo.
   - Target é um público pequeno. 
   - Último passo antes da implantação final.
 
-+ **Demo**
-  - Ocorre antes da PoC. 
-  - Geralmente não há interação do cliente, o fornecedor apresenta as caracteristicas e informações do produto.
-  - Não existe investimento financeiro ou qualquer comprometimento.
-
-## Dicas e melhores práticas
-
-Essas são minhas dicas e melhores páticas de acordo com a minha experiência, nada científico, apenas minhas experiências.
-
-Eu vejo que uma PoC tem 4 grandes fases:
-
-+ Esforço e duração da PoC
-+ Escopo da PoC
-+ Escolha de Recursos
-+ Finalização e critérios de aceitação
-
-Utilize dados reais sempre que possível durante a realização da PoC
-
-What’s the problem?
-So, before exhausting yourselves with yet another endless POC process, let’s analyze the most common problems in failed POCs to help you avoid their iteration:
-
-Undefined objectives for POC’s success
-“What was that…?” Customer’s requirements are not fully understood by the vendor
-Not using the real data Vendors only use sample data for the POC, reluctant to spend the time and effort required to use real data
-“Oh, and by the way, I also want to…” Customers usually realize what they want only after they start using the product and vendors are often reluctant to allow refining and adjustments on-the-go.
-“Look at me!” POCs show-off “killer” features, instead of customizing the product to solve the customer’s problem
-“I’m so pretty” Vendors often see POCs as a validation for their wonderful product rather than an evaluative tool for improving the product
-
-
-
 ## Como não fazer uma PoC (o que evitar)
 
-A PoC não pode virar Produção - isso é um erro muito comum e que acontece demais nas empresa.
-
-Falta de engajamento das pessoas chave - todos devem estar envolvidos em validar o produto, sempre seguindo o planejamento e os objetivos definidos
+- A PoC não pode virar Produção - isso é um erro muito comum e que acontece demais nas empresa.
+- Falta de engajamento das pessoas chave - todos devem estar envolvidos em validar o produto, sempre seguindo o planejamento e os objetivos definidos
+- Utilize dados reais sempre que possível durante a realização da PoC, dessa forma você garante que o que você está tentando provar, vai de fato funcionar no seu cenário real.
+- Evite 
 
 
 
