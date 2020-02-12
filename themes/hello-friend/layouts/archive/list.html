@@ -21,17 +21,18 @@
           </h3>
           <div class="archive__post-meta">
             <span class="archive__post-date">
-              {{ .Date.Format ($.Site.Params.DateFormatList | default "2006-01-02") }}
+              <i class="fas fa-calendar-day"></i> {{ .Date.Format ($.Site.Params.DateFormatList | default "2006-01-02") }}
             </span>
             {{ with .Params.Author }}
             <span class="archive__post-author">—
-              {{ $.Site.Params.WrittenBy | default "Written by" }}
+             <i class="fas fa-user-ninja"></i> {{ $.Site.Params.WrittenBy | default "Written by" }}
               {{ . }}
             </span>
             {{ end }}
             {{ if $.Site.Params.ShowReadingTime }}
-            <span class="archive__post-read-time">— {{ .ReadingTime }}
+            <span class="archive__post-read-time">— <i class="fas fa-hourglass-half"></i> {{ .ReadingTime }}
               {{ $.Site.Params.MinuteReadingTime | default "min read" }}</span>
+			  <span class="post-read-time"> — <i class="fas fa-book-dead"></i> {{ .WordCount }} {{ $.Site.Params.wordCount | default "words" }}</span>
             {{ end }}
           </div>
         </div>

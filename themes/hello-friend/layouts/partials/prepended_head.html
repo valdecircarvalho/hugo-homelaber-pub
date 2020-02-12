@@ -13,8 +13,9 @@ put it in /layouts/partials/prepended_head.html. Do not put anything in this fil
   gtag('config', 'UA-60449897-1');
 </script>
 
+<link href="/fontawesome/css/all.css" rel="stylesheet"> <!--load all styles to show fontawesome icons -->
 
-<link href="/fontawesome/css/all.css" rel="stylesheet"> <!--load all styles -->
+
 <!-- Icons -->
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/img/apple-touch-icon-57x57.png" />
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/img/apple-touch-icon-114x114.png" />
@@ -38,18 +39,23 @@ put it in /layouts/partials/prepended_head.html. Do not put anything in this fil
 <meta name="msapplication-square310x310logo" content="/img/mstile-310x310.png" />
 
 
-<!-- -->
 
+<!-- meta properties open graph -->
 <meta property="og:type" content="blog" />
-<meta property="og:title" content="Blog Homelaber Brasil" />
-<meta property="og:description" content="Blog Homelabler Brasil | Home lab· Infraestrutura de TI· Virtualização· Cloud Computing · DevOps | Blog sobre Virtualização, Infraestrutura de TI, Cloud Computing e DevOps escrito em Português. Criado e editado por Valdecir Carvalho" />
-<meta property="og:url" content="http://homelaber.com.br/" />
+<meta property="og:description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} - {{ .Title }} {{ end }}" />
 <meta property="og:site_name" content="Homelaber Brasil" />
-<meta property="og:image" content="/img/homelaber-twiiter-card-1200x675.png" />
-<meta name="twitter:card" content="summary" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:title" content="{{ if eq .Kind "taxonomy" }}{{ .Title }} | YourSite {{ else }}{{ .Title }}{{ end }}" />
+<meta property="og:description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} - {{ .Title }} {{ end }}" />
+<meta property="og:image" content="{{if .Params.image}}{{.Params.image}}{{else}} {{ .Site.Params.defaultimage }} {{end}}" />
+
+
+<!-- meta properties twitter card -->
+<meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@homelaber" />
 <meta name="twitter:creator" content="@homelaber" />
-<meta name="twitter:domain" content="Homelaber Brasil" />
-<meta name="twitter:title" content="Homelaber Brasil" />
-<meta name="twitter:description" content="Homelab, Virtualização &amp; Infraestrutura de TI" />
-<meta name="twitter:image" content="/img/homelaber-twiiter-card-1200x675.png" />
+<meta name="twitter:title" content="{{ if eq .Kind "taxonomy" }}{{ .Title }} | YourSite {{ else }}{{ .Title }}{{ end }}" />
+<meta name="twitter:description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} - {{ .Title }} {{ end }}" />
+<meta name="twitter:image" content="{{if .Params.image}}{{.Params.image}}{{else}} {{ .Site.Params.defaultimage }} {{end}}" />
+<meta name="twitter:url" content="{{ .Permalink }}" />
+

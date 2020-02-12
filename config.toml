@@ -4,8 +4,11 @@ defaultContentLanguage = "br"
 theme = "hello-friend"
 paginate = 5
 hrefTargetBlank = true
-enableRobotsTXT = true
 enableInlineShortcodes = true
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -16,12 +19,14 @@ enableInlineShortcodes = true
   showMenuItems = 5
   # Enable to show reading time in minutes for posts
   showReadingTime = true
-    socialShare = true ## mostrar o social share
+  socialShare = true ## mostrar o social share
   author = "Valdecir Carvalho"
   authorImage = "/img/valdecir.png"
   logo_1 = "/img/veeam-vanguard-logo.png"
   logo_2 = "/img/vmware-vexpert-logo.png" 
- 
+  metadescription = "Blog Homelabler Brasil"
+  defaultimage = "/img/homelaber-twiiter-card-1200x675.png"
+   
 [Author]
   name = "Some Person"
   website = "yourwebsite.com"
@@ -83,8 +88,7 @@ tag = "tags"
 	wordCount = "palavras"
     dateFormatSingle = "02-01-2006"
     dateFormatList = "02-01-2006"
-
-    [languages.br.params.logo]
+   [languages.br.params.logo]
       logoText = "Homelaber Brasil"
       logoHomeLink = "/"
     # or
@@ -103,18 +107,4 @@ tag = "tags"
         name = "arquivo"
         url = "/archive/"
 		weight = 1
-#     [[languages.br.menu.main]]
-#        identifier = "meu-homelab"
-#        name = "meu homelab"
-#        url = "/homelab"
-#		weight = 3
-#	  [[languages.br.menu.main]]
-#        identifier = "github"
-#        name = "github"
-#        url = "https://github.com/valdecircarvalho/"
-#		weight = 4
-#	  [[languages.br.menu.main]]
-#        identifier = "twitter"
-#        name = "@homelaber"
-#        url = "https://twitter.com/homelaber"
-#		weight = 5
+

@@ -17,7 +17,7 @@ categories = ["Blog", "Veeam"]
 Olá Homelabers!
 
 
-![ddd](/imagens/2020/02/veeam-v10-post-header.jpg)
+![Veeam V10](/imagens/2020/02/veeam-v10-post-header.jpg)
 
 
 A Veeam está lançando esse mês nada mais, nada menos do que 10 novos produtos, incluindo ai a tão esperada e aguardada v10 de seu produto chefe, o Veeam Backup & Replication. 

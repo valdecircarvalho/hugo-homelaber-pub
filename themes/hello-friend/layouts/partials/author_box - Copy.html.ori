@@ -1,0 +1,58 @@
+<style>
+/* Media Object */
+.media {
+  display: flex;
+  align-items: flex-start;
+}
+.media-figure {
+  margin-right: 1em;
+}
+.media-body {
+  flex: 1;
+}
+
+/* Author Box Styles */
+.author-box {
+    background: #f7f7f7;
+    padding: 30px;
+    border-radius: 2px;
+	font-size:small;
+}
+</style>
+
+
+
+<div class="media author-box">
+
+    <div class="media-figure">
+        <img src="/img/avatar-valdecir-8bits.png" width="100" height="100">
+    </div>
+
+    <div class="media-body">
+        <p><h3>Valdecir Carvalho</h3></p><p> Nerd e pai orgulhoso da Mariana e João. Profissional Sênior de TI com foco em arquitetura de infraestrutura e cloud computing. Blogueiro, podcaster, palestrante, amante de comunidades técnicas, fotógrafo aposentado e adora jogos antigos. </p><p>#vExpert · #VMUGLeader · #VUGBrasil · #vBronwBagBrasil · #VeeamVanguard</p>
+		<p><span style="font-size: 3em; color: Purple;">
+			<a href="https://twitter.com/homelaber" target="_blank"><i class="fab fa-twitter"></i></a>
+			</span>
+			<span style="font-size: 3em; color: Purple;">
+			<a href="https://www.linkedin.com/in/valdecircarvalho/" target="_blank"><i class="fab fa-linkedin"></i></a>
+			</span>
+			<span style="font-size: 3em; color: Purple;">
+			<a href="https://github.com/valdecircarvalho" target="_blank"><i class="fab fa-github"></i></a>
+			</span>
+			<span style="font-size: 3em; color: Purple;">
+			<a href="https://t.me/vcarva" target="_blank"><i class="fab fa-telegram"></i></a>
+			</span>
+			<span style="font-size: 3em; color: Purple;">
+			<a href="http://wa.me/5511952593615" target="_blank"><i class="fab fa-whatsapp"></i></a>
+			</span>
+			<span style="font-size: 3em; color: Purple;">
+			<a href="http://valdecir.me" target="_blank"><i class="fab fa-fort-awesome"></i></a>
+			</span>			
+         </p>
+		 
+        <!--<div class="author-icons">
+            
+        </div> -->
+    </div>
+
+</div>
