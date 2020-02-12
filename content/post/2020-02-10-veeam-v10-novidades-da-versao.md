@@ -5,6 +5,7 @@ date = "2020-02-11"
 type = "post"
 draft = "false"
 url = "/veeam-v10-novidades-da-versao"
+image = "/imagens/2020/02/veeam-v10-post-header.jpg"
 description = "A nova versão do Veeam Availability Suite está para ser lançada, saiba nesse posts algumas novidades da V10."
 tags = [
     "veeam",
@@ -63,3 +64,5 @@ Não deixe de acompanhar o blog do {{< target-blank title="Wesley Martins" url="
 Até o próximo post!
 
 --VC
+
+----
