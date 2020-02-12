@@ -2,6 +2,7 @@
 author = "Valdecir Carvalho"
 title = "Como acessar seu homelab remotamente"
 date = "2020-03-13 07:00:00"
+publishDate = "2020-03-13 07:00:00"
 type = "post"
 draft = "false"
 url = "/como-acessar-homelab-remotamente"
@@ -36,8 +37,6 @@ Como a grande maioria das pessoas, eu não tenho uma conexão de internet com IP
 
 + {{< target-blank title="DDNS com Duck DNS" url="/duckdns-servico-de-dns-dinamico-gratis/" >}}
 + {{< target-blank title="DNS Dinâmico com Docker e CloudFlare" url="/dns-dinamico-gratis-com-docker-e-cloudflare/" >}}
-
-{{< target-blank title="" url="" >}}
 
 
 Outro ponto a ser levado em consideração é que por padrão as operadoras limitam o acesso as portas baixas e mais comuns. Ex. 80, 443, 21, 22, 3389 etc. Portanto, você quase sempre vai precisar configurar o Portforward para acessar qualquer coisa no seu lab. 
