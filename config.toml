@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://homelaber.com.br"
 languageCode = "br"
 defaultContentLanguage = "br"
 theme = "hello-friend"
