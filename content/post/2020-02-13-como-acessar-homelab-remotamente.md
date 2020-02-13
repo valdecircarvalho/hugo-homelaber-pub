@@ -1,8 +1,8 @@
 +++
 author = "Valdecir Carvalho"
 title = "Como acessar seu homelab remotamente"
-date = "2020-03-13"
-publishDate = "2020-03-13 07:00:00"
+date = "2020-02-13"
+publishDate = "2020-02-13"
 type = "post"
 draft = "false"
 url = "/como-acessar-homelab-remotamente"
