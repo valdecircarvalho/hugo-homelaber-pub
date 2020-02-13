@@ -1,4 +1,26 @@
 {{ define "main" }}
+
+
+<style>
+.searchbox {
+    padding-top: 1px;
+}
+.searchbox form{
+display: flex;
+}
+</style>
+<div class="searchbox">
+
+<form role="search" method="get" action="https://www.google.com/search">
+  <input type="search" size="50" placeholder="Pesquise no homelaber.com.br..." value="" name="q" title="Pesquisar:" >
+  <input type="hidden" name="sitesearch" value="homelaber.com.br">
+  <button type="submit" value="Submit"><i class="fas fa-search"></i></button>
+</form>
+</div>
+
+
+
+
   <div class="posts">
     {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
     {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" }}
@@ -67,7 +89,8 @@ Não vai mostrar as tags na home. Somente dentro do post
         {{ end }}
       </div>
       <div><a class="read-more button" href="{{.RelPermalink}}">{{ $.Site.Params.ReadMore | default "Read more" }} →</a></div>
-			 
+	
+		
     </div>
 
     {{ end }}
