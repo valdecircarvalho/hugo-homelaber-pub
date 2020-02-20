@@ -16,7 +16,7 @@ canonifyURLs = true
   # "light" or "dark"
   defaultTheme = "light"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 7
+  showMenuItems = 10
   # Enable to show reading time in minutes for posts
   showReadingTime = true
   socialShare = true ## mostrar o social share
@@ -109,3 +109,9 @@ tag = "tags"
         url = "/archive/"
 		weight = 1
 		pre = "<i class='fas fa-archive' style='font-size: 1.5em; color: black;'></i>"
+#      [[languages.br.menu.main]]
+#        identifier = "projetos"
+#        name = ""
+#        url = "/projetos/"
+#		weight = 3
+#		pre = "<i class='fas fa-hammer' style='font-size: 1.5em; color: black;'></i>"

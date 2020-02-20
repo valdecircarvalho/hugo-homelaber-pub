@@ -86,6 +86,7 @@ Muitos clientes, costumam fazer confusão entre PoC, Piloto e Demo.
 - A PoC não pode virar Produção - isso é um erro muito comum e que acontece demais nas empresa.
 - Falta de engajamento das pessoas chave - todos devem estar envolvidos em validar o produto, sempre seguindo o planejamento e os objetivos definidos
 - Utilize dados reais sempre que possível durante a realização da PoC, dessa forma você garante que o que você está tentando provar, vai de fato funcionar no seu cenário real.
+- Mantenha-se no escopo da PoC
 - Evite 
 
 
