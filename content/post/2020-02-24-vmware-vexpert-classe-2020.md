@@ -32,8 +32,6 @@ Lá em {{< target-blank title="2016" url="https://homelaber.com.br/vexpert-2016-
 
 Ao longo desses cinco anos de um forte envolvimento com a comunidade, muitas coisas mudaram na minha vida e sem falsa modéstia, tenho a certeza de que pude ajudar algumas pessoas a mudar de vida também!
 
-{{< target-blank title="" url="" >}}
-
 ## O vExpert no Brasil
 
 ----
@@ -114,7 +112,8 @@ Parabéns a todos! Eu acredito que conheço a maioria de vocês, se não pessoal
 | Wesley Martins Silva          | São Paulo             | SP | @wesmrt          | https://itproland.com.br                                   |
 | William Braz                  | São Bernardo Do Campo | SP | @wcoscolyn       |
 
-## Gostou? Quer ser um vExpert? 
+
+## Gostou? Quer ser um vExpert?  
 
 ----
 {{< target-blank title="Pergunte-me como!" url="https://twitter.com/intent/tweet?&text=@homelaber%20Como%20me%20tornar%20um%20vExpert?" >}}
