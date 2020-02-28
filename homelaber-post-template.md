@@ -5,7 +5,6 @@ date = "2020-MM-DD 07:00:00"
 publishDate = "2020-MM-DD 07:00:00"
 type = "post"
 draft = "false"
-link = "yes"
 url = "/url-do-post"
 image = "/imagens/2020/MM/imagem.jpg"
 description = "description"
@@ -13,7 +12,7 @@ tags = [
     "",
     "",
     "",
-	"",
+	"h,
     "",
 ]
 categories = ["Blog", ""]

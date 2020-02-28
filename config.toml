@@ -9,6 +9,8 @@ enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
 canonifyURLs = true
+# Set content editor
+newContentEditor = "code"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
