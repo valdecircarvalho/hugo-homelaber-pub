@@ -1,4 +1,3 @@
 @echo off
 echo .
-cls
-scp -r C:\hugo\sites-public\homelaber\* pi@192.168.1.3:/home/pi/docker/homelaber-hugo
+scp -r C:\hugo\sites-public\homelaber\* valdecircarvalho@192.168.1.3:/docker/hugo-dev

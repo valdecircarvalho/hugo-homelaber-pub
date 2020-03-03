@@ -13,7 +13,7 @@ set Sec=%DateTime:~12,2%
 set LogName=%Yr%%Mon%%Day%%Hr%%Min%%Sec%
 
 echo --------------------------------
-echo Gerando nova versão site ...
-hugo --destination c:\hugo\sites-public\homelaber\ --logFile c:\hugo\sites\homelaber\logs\%LogName%_hugo.log --minify
+echo Gerando nova versao site ...
+hugo --destination c:\hugo\sites-public\homelaber\ --logFile c:\hugo\sites\homelaber\%LogName%_hugo.log --minify
 echo --------------------------------
 echo Site gerado ...

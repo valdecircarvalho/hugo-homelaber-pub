@@ -1,6 +1,5 @@
 @echo off
 echo .
-cls
 echo --------------------------------
 echo Publicando site no github ...
 cd C:\hugo\sites-public\homelaber
