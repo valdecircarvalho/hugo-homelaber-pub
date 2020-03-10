@@ -18,6 +18,9 @@ tags = [
 ]
 categories = ["Blog", "Dicas"]
 +++
+
+![image title](/imagens/2020/03/composerize.jpg)
+
 Conheça o {{< target-blank title="composerize" url="https://composerize.com/" >}}, uma maneira fácil de criar automaticamente arquivos docker-compose.yaml  partir de do comando docker run. 
 
 Se você, assim como eu, nunca lembra a sintaxe correta do arquivo docker-compose.yaml essa é a ferramenta perfeita!
