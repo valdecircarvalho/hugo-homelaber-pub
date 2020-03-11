@@ -13,17 +13,27 @@ tags = [
     "vsphere-7",
     "news",
 ]
-categories = ["Blog", ""]
+categories = ["Blog", "VMware"]
 +++
 
 ![image title](/imagens/2020/MM/imagem.jpg)
 
 Olá Homelabers!
 
+Hoje a VMware anunciou a mais nova versão de sua stack de virtualização, o VMware vSphere 7.0
+
+O anúncio oficial será feito em um evento on-line https://www.vmware.com/app-modernization.html às 15hs (horário de Brasília) mas como de costume, o Twitter e vários blogs já soltaram as novidades.
+
+Eu não participei do Beta do vSphere 7 esse ano, então não tenho os bits e nem outras informações, então o que você irá encontrar nesse post será um apanhado do que já foi anunciado até o momento. 
+
+## Vmware vSphere 7
+----
+
+Link do anúncio oficial - https://blogs.vmware.com/vsphere/2020/03/vsphere-7.html
+
+
 {{< target-blank title="" url="" >}}
 
-## Subititle-1
-----
 
 ## Subititle-2
 ----
