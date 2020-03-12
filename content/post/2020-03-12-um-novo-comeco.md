@@ -1,8 +1,8 @@
 +++
 author = "Valdecir Carvalho"
 title = "Um novo começo!"
-date = "2020-03-12 07:00:00"
-publishDate = "2020-03-12 07:00:00"
+date = "2020-03-12 05:00:00"
+publishDate = "2020-03-12 05:00:00"
 type = "post"
 draft = "false"
 url = "/um-novo-comeco-oracle"
@@ -20,6 +20,8 @@ categories = ["Blog", "Oracle"]
 +++
 
 Olá Homelabers!
+
+[English readers please click here](#english)
 
 Esse é um post muito especial para mim. Hoje, dia **12/03/2020** é o dia de um novo começo na minha carreira. 
 
@@ -93,6 +95,31 @@ _Meu novo time durante uma corrida de kart na semana passada - o braço doi até
 E aproveitando, se vocês quiserem me encontrar no Telegram e conversar sobre Oracle OCI, venha participar do {{< target-blank title="Grupo Oracle Cloud Brasil no Telegram" url="https://t.me/GUOCB" >}}
 
 ![image title](/imagens/2020/03/grupo-oracle-cloud-brasil-telegram.jpg)
+
+## A new beginning! {#english}
+----
+![image title](/imagens/2020/03/english-please.png)
+
+Hello my English readers!
+
+I'm happy to announce that Today (03/12/2020) I am joining Oracle as a **Senior Sales Consultant** to work in the Oracle Cloud division here in São Paulo, Brazil.
+
+Long story short, it all started two years ago when **John Troyer** {{< target-blank title="(@jtroyer)" url="https://twitter.com/jtroyer" >}} invited me to Redwood City to attend the Oracle Ravello Blogger Day (and I can't thank him enought for that). There I met some people from Oracle, who put me in contact with the Oracle Cloud director here in São Paulo and we started talking about OCI, recording podcasts for vBrownBag, VMUG sessions, etc.
+
+![image title](/imagens/2020/03/oracle-ravello-vexpert-blogger-day-2018.jpg)
+
+Fast forwarding to last November, I got a call from this guy inviting me to join his team. After a few months of interviews, phone calls and lots of paperwork and approvals, here I am!
+
+It will be a big challenge, but I am very excited about it and about all the new things I will have to learn and discovery.
+
+So, thanks to everyone who supported me and don't worry, I will continue to be part of the #vCommunity.
+
+![Oracle welcome kit](/imagens/2020/03/oracle-welcome-kit.jpg)
+_This is my welcome kit! Realy nice hum?_
+
+_Val_
+
+PS - If you want to read the whole post in English, {{< target-blank title="click here" url="https://translate.google.com/translate?sl=pt&tl=en&u=https%3A%2F%2Fhomelaber.com.br%2Fum-novo-comeco-oracle" >}} for the translated version (google translated)
 
 
 ----
