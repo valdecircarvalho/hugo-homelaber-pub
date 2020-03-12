@@ -1,8 +1,8 @@
 +++
 author = "Valdecir Carvalho"
 title = "Um novo começo!"
-date = "2020-03-12 06:00:00"
-publishDate = "2020-03-12 06:00:00"
+date = "2020-03-11 06:00:00"
+publishDate = "2020-03-11 06:00:00"
 type = "post"
 draft = "false"
 url = "/um-novo-comeco-oracle"
