@@ -82,7 +82,7 @@ Existe pouco conteúdo em Português e como eu vou ter que estudar MUITO sobre o
 Quero aproveitar esse post, para agradecer várias pessoas as quais eu devo muito. Muito obrigado pelos conselhos, conversas e incentivos. 
 
 - **John Troyer** - que me convidou para o Ravello Blogger Day e me apresentou as pessoas da Oracle.
-- **Welington Pinto** - pelo convite e confiança
+- **Weligton Pinto** - pelo convite e confiança
 - **Josiel, Ferrari, Leo, Patara, Paladino, Sega, Glauber, Gouveia, Felipe, Guilhermo, Keith, Tim, Ariel, Wesley, Samuel, Ricardo** - pelas longas conversas e conselhos
 - **Nane, Mari e João** - minha amada família, por me darem todo o suporte em casa e aguentarem as barras junto comigo!
 - Ao **meu novo time**, pela recepção calorosa no kart =) 
