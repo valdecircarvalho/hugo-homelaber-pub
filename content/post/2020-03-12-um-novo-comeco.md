@@ -60,7 +60,7 @@ Um dos meus principais desafios será "aprender a ser um SE". Sempre trabalhei c
 
 Outra coisa legal e que me atraiu foi o desafio de trabalhar com Cloud full time. A Cloud da Oracle ainda é um produto/serviço relativamente novo no mercado, mas que está ganhando a cada dia mais e mais tração e conquistando muitos clientes. A empresa está colocando muitas fichas ($$$) no desenvolvimento e aperfeiçoamento da tecnologia e a briga promete ser boa!
 
-Eu testei o OCI recentemente e como disse {{< target-blank title="nesse post" url="https://homelaber.com.br/o-que-e-oracle-cloud-infrastructure/" >}}, o produto está muito maduro e vem sofrente constantes atualizações e melhorias. Se eu não acreditasse no produto e na empresa, eu não embarcaria nesse desafio. 
+Eu testei o OCI recentemente e como disse {{< target-blank title="nesse post" url="https://homelaber.com.br/o-que-e-oracle-cloud-infrastructure/" >}}, o produto está muito maduro e vem sofrendo constantes atualizações e melhorias. Se eu não acreditasse no produto e na empresa, eu não embarcaria nesse desafio. 
 
 
 ![image title](/imagens/2020/03/Oracle-Cloud-Infrastructure-logo.png)
