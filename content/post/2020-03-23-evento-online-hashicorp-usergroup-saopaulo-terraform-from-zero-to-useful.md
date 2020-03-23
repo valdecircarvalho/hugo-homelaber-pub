@@ -66,7 +66,7 @@ Muitas pessoas ainda não tiveram contato com Terraform, não sabem o que é, pa
 
 Será um conteúdo bem básico, mas que garanto que será divertido! Você será mordido pelo "bixinho" da Infraestrutura como Código e ai meu amigo, não tem volta!
 
-O PPT e os códigos de exemplo que usarei na apresentação estarão publicados no meu Github {{< target-blank title="https://github.com/valdecircarvalho/terraform-demo " url="https://github.com/valdecircarvalho/terraform-demo " >}}
+O PPT e os códigos de exemplo que usarei na apresentação estarão publicados no meu Github {{< target-blank title="https://github.com/valdecircarvalho/terraform-demo" url="https://github.com/valdecircarvalho/terraform-demo" >}}
 
 
 ## Grupo #HUGSP no Telegram
