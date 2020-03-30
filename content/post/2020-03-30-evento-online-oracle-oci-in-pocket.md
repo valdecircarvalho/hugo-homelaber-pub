@@ -67,6 +67,7 @@ Para participar basta fazer sua inscrição no link {{< target-blank title="bit.
 
 ![image title](/imagens/2020/03/oci-in-pocket-registro.png)
 
+**{{< target-blank title="https://bit.ly/oci-in-pocket" url="https://bit.ly/oci-in-pocket" >}}**
 ----
 Eu recomendo a todos participarem desses webinars, é uma forma bacana e rápida de conhecer novas tecnologias.
 
