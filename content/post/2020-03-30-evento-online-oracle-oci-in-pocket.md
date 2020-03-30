@@ -6,8 +6,8 @@ publishDate = "2020-03-30 07:00:00"
 type = "post"
 draft = "false"
 url = "/oci-in-pocket-abril-2020"
-image = "/imagens/2020/03/oci-in-pocket-capa.png"
-description = "Conheça e participe da série de palestras online promovido pelo time de especialistas da Oracle Brasil. São diversos temas relacionados a Cloud Computing. Veja no post a agenda de abrir e como participar."
+image = "/imagens/2020/03/oci-in-pocket-abril-2020-capa.jpg"
+description = "Conheça e participe da série de palestras online promovido pelo time de especialistas da Oracle Brasil. São diversos temas relacionados a Cloud Computing. Veja no post a agenda de abril e como participar."
 tags = [
     "OCI",
     "Oracle Cloud",
@@ -28,6 +28,8 @@ O time de Solutions Engineers da Oracle está promovendo uma série de webinars 
 
 ## OCI in Pocket
 ----
+
+![image title](/imagens/2020/03/oci-in-pocket-banner.png)
 
 O OCI in Pocket são palestras técnicas sobre diversos temas relacionados a Cloud Computing com duração de 30-40 minutos onde você poderá acompanhar e tirar dúvidas com os especialistas de Cloud da Oracle.
 
