@@ -63,7 +63,7 @@ _A agenda e seu conteúdo podem mudar, fique de olho no meu twitter que eu avise
 ## Como participar
 ----
 
-Para participar basta fazer sua inscrição no link {{< target-blank title="bit.ly/oci-in-pocket" url="bit.ly/oci-in-pocket" >}}. Você irá receber um e-mail com a confirmação de inscrição e o link para acessar o Zoom. Você só precisa se cadastrar uma vez para ter acesso a todos os webinars!
+Para participar basta fazer sua inscrição no link {{< target-blank title="bit.ly/oci-in-pocket" url="https://bit.ly/oci-in-pocket" >}}. Você irá receber um e-mail com a confirmação de inscrição e o link para acessar o Zoom. Você só precisa se cadastrar uma vez para ter acesso a todos os webinars!
 
 ![image title](/imagens/2020/03/oci-in-pocket-registro.png)
 
