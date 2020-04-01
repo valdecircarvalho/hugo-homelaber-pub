@@ -20,7 +20,7 @@ categories = ["Blog", "Oracle"]
 
 Olá Homelabers!
 
-No último dia 30/03 a Oracle {{< target-blank title="anunciou em seu blog" url="https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html" >}} a oferta de cursos on-line e certificações gratuitas para os produtos da linha Oracle Cloud Infrastructure e Oracle Autonomus Database. Até o dia **15 de Março 2020**, você poderá **fazer a certificação totalmente grátis**.
+No último dia 30/03 a Oracle {{< target-blank title="anunciou em seu blog" url="https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html" >}} a oferta de cursos on-line e certificações gratuitas para os produtos da linha Oracle Cloud Infrastructure e Oracle Autonomus Database. Até o dia **15 de Maio 2020**, você poderá **fazer a certificação totalmente grátis**.
 
 Essa ação está disponível para qualquer usuário, incluindo desenvolvedores, profissionais técnicos, arquitetos, estudantes e professores, terá acesso rápido e fácil a mais de 50 horas de treinamento on-line e 6 exames de certificação.
 
