@@ -20,6 +20,12 @@ categories = ["Blog", "Oracle"]
 
 Olá Homelabers!
 
+----
+
+**UPDATE:** *Algumas pessoas entraram em contato comigo dizendo que não estavam conseguindo o desconto na Pearson Vue. Para o ativar o desconto de 100%, é preciso acessar a Person Vue pelo link do treinamento - caixinha verde. Veja no final do post, o passo a passo para garantir o desconto.*
+
+---- 
+
 No último dia 30/03 a Oracle {{< target-blank title="anunciou em seu blog" url="https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html" >}} a oferta de cursos on-line e certificações gratuitas para os produtos da linha Oracle Cloud Infrastructure e Oracle Autonomus Database. Até o dia **15 de Maio 2020**, você poderá **fazer a certificação totalmente grátis**.
 
 Essa ação está disponível para qualquer usuário, incluindo desenvolvedores, profissionais técnicos, arquitetos, estudantes e professores, terá acesso rápido e fácil a mais de 50 horas de treinamento on-line e 6 exames de certificação.
@@ -78,18 +84,63 @@ Para acessar o conteúdo e começar a aprender, basta seguir três passos:
 
 2. Acesse os caminhos de aprendizado através dos links abaixo:
 
-   * [Oracle Autonomous Database Specialist](https://learn.oracle.com/ols/learning-path/become-an-autonomous-database-specialist/35573/55666)
-   * [Oracle Cloud Infrastructure Foundations Associate](https://learn.oracle.com/ols/learning-path/understand-oci-foundations/35644/75258)
-   * [Oracle Cloud Infrastructure Cloud Operations Associate](https://learn.oracle.com/ols/learning-path/manage-oci-operations-associate/35644/60972)
-   * [Oracle Cloud Infrastructure Developer Associate](https://learn.oracle.com/ols/learning-path/become-oci-developer-associate/35644/75248)
-   * [Oracle Cloud Infrastructure Architect Associate](https://learn.oracle.com/ols/learning-path/become-oci-architect-associate/35644/75658)
-   * [Oracle Cloud Infrastructure Architect Professional](https://learn.oracle.com/ols/learning-path/become-oci-architect-professional/35644/35802)
+* {{< target-blank title="Oracle Autonomous Database Specialist" url="https://learn.oracle.com/ols/learning-path/become-an-autonomous-database-specialist/35573/55666" >}}
+* {{< target-blank title="Oracle Cloud Infrastructure Foundations Associate" url="https://learn.oracle.com/ols/learning-path/understand-oci-foundations/35644/75258" >}}
+* {{< target-blank title="Oracle Cloud Infrastructure Cloud Operations Associate" url="https://learn.oracle.com/ols/learning-path/manage-oci-operations-associate/35644/60972" >}}
+* {{< target-blank title="Oracle Cloud Infrastructure Developer Associate" url="https://learn.oracle.com/ols/learning-path/become-oci-developer-associate/35644/75248" >}}
+* {{< target-blank title="Oracle Cloud Infrastructure Architect Associate" url="https://learn.oracle.com/ols/learning-path/become-oci-architect-associate/35644/75658" >}}
+* {{< target-blank title="Oracle Cloud Infrastructure Architect Professional" url="https://learn.oracle.com/ols/learning-path/become-oci-architect-professional/35644/35802" >}}
 
 3. Registre-se e faça seu exame de certificação gratuito. 
+
 Se você possui uma conta [PearsonVue - Oracle](https://home.pearsonvue.com/oracle), efetue login.
 Caso contrário, escolha "Criar uma conta da Web" no lado direito da página e siga as instruções.
 
 Depois disso, basta começar a estudar e se preparar para os exames de certificação.
+
+> **ATENÇÃO**
+> Muitas pessoas tem me procurado dizendo que não está conseguindo o desconto de 100% na Person Vue. 
+> Para o desconto ser aplicado, é preciso **obrigatoriamente** entrar pelo link do learn.oracle.com ou seja, por dentro do curso que você está fazendo!
+
+## Veja o passo-a-passo para se registrar.
+----
+1. Na tela do curso escolhido, clique na opção **Certification**.
+![image title](/imagens/2020/04/oci-prova-how-to-pearson-vue_01.png)
+---
+2. Faça o login na Pearson Vue. Se não tiver um crie.
+![image title](/imagens/2020/04/oci-prova-how-to-pearson-vue_02.png)
+---
+3. Selecione se quer fazer o exame em um Teste Center ou em casa e clique NEXT. HOJE recomendo escolher para fazer em casa.
+![image title](/imagens/2020/04/oci-prova-how-to-pearson-vue_03.png)
+---
+4. Concorde com os termos e clique NEXT
+![image title](/imagens/2020/04/oci-prova-how-to-pearson-vue_04.png)
+---
+5. Verifique os detalhes do exame e clique NEXT
+![image title](/imagens/2020/04/oci-prova-how-to-pearson-vue_05.png)
+---
+6. Confirme a seleção do exame e clique NEXT
+![image title](/imagens/2020/04/oci-prova-how-to-pearson-vue_06.png)
+---
+7. Escolha a data e hora do exame 
+![image title](/imagens/2020/04/oci-prova-how-to-pearson-vue_07.png)
+---
+8. Confira as informações e clique em PROCEED TO CHECKOUT
+![image title](/imagens/2020/04/oci-prova-how-to-pearson-vue_08.png)
+---
+9. Clique em ACCEPT
+![image title](/imagens/2020/04/oci-prova-how-to-pearson-vue_09.png)
+---
+10. Aqui o desconto será aplicado, clique em NEXT.
+![image title](/imagens/2020/04/oci-prova-how-to-pearson-vue_010.png)
+---
+11. Clique em SUBMIT ORDER
+![image title](/imagens/2020/04/oci-prova-how-to-pearson-vue_011.png)
+---
+12. Pronto, seu exame foi agendado.
+![image title](/imagens/2020/04/oci-prova-how-to-pearson-vue_012.png)
+---
+
 
 Então, o que você está esperando? Sou bastante suspeito para falar, mas a Cloud Oracle está ganhando cada vez mais relevância no mercado e se você se preparar e se certificar, vai sair na frente da concorrência
 
