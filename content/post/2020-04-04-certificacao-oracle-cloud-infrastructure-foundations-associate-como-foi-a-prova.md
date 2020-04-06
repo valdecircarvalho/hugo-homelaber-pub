@@ -27,10 +27,6 @@ A idéia desse post é contar minha experiência, impressões e o material que u
 
 Se você caiu de paraquedas nesse post, recomendo que pare aqui e **{{< target-blank title="leia esse outro post" url="https://homelaber.com.br/treinamento-certificacao-oracle-cloud-gratis/" >}}**, onde eu falo com detalhes sobre a promoção que a Oracle está fazendo para certificação OCI. Até o dia 15/05 você pode fazer 6 treinamentos + certificação totalmente grátis. **{{< target-blank title="Vai lá" url="https://homelaber.com.br/treinamento-certificacao-oracle-cloud-gratis/" >}}** e depois volte aqui! :) 
 
-
-**{{< target-blank title="" url="" >}}**
-
-
 ## A Certificação
 ----
 

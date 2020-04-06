@@ -22,9 +22,13 @@ Olá Homelabers!
 
 ----
 
-**UPDATE:** *Algumas pessoas entraram em contato comigo dizendo que não estavam conseguindo o desconto na Pearson Vue. Para o ativar o desconto de 100%, é preciso acessar a Person Vue pelo link do treinamento - caixinha verde. Veja no final do post, o passo a passo para garantir o desconto.*
+**UPDATE 1:** *Algumas pessoas entraram em contato comigo dizendo que não estavam conseguindo o desconto na Pearson Vue. Para o ativar o desconto de 100%, é preciso acessar a Person Vue pelo link do treinamento - caixinha verde. Veja no final do post, o passo a passo para garantir o desconto.*
+
+**UPDATE 2:**  _{{< target-blank title="Veja o post" url="/certificacao-oracle-cloud-infrastructure-foundations-associate-como-foi-a-prova" >}} sobre minhas impressões e dicas para a prova Oracle Cloud Infrastructure Foundations Associate._
 
 ---- 
+
+
 
 No último dia 30/03 a Oracle {{< target-blank title="anunciou em seu blog" url="https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html" >}} a oferta de cursos on-line e certificações gratuitas para os produtos da linha Oracle Cloud Infrastructure e Oracle Autonomus Database. Até o dia **15 de Maio 2020**, você poderá **fazer a certificação totalmente grátis**.
 
