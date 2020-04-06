@@ -7,7 +7,7 @@ type = "post"
 draft = "false"
 url = "/certificacao-oracle-cloud-infrastructure-foundations-associate-como-foi-a-prova"
 image = "/imagens/2020/04/certificacao-oracle-cloud-infrastructure-foundations-associate-como-foi-a-prova-capa.png"
-description = "Na última sexta-feira, 03/04 fiz a prova Oracle Oracle Cloud Infrastructure 2020 Foundations Associate e muita gente me perguntou como foi o exame online, como me preparei, etc. Nesse post vou contar minhas impressões e o material que utilizei para me preparar."
+description = "Na última sexta-feira, 03/04 fiz a prova Oracle Cloud Infrastructure 2020 Foundations Associate e muita gente me perguntou como foi o exame online, como me preparei, etc. Nesse post vou contar minhas impressões e o material que utilizei para me preparar."
 tags = [
     "Oracle",
     "OCI",
