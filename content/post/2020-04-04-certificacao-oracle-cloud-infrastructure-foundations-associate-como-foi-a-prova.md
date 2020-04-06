@@ -6,7 +6,7 @@ publishDate = "2020-04-06 07:00:00"
 type = "post"
 draft = "false"
 url = "/certificacao-oracle-cloud-infrastructure-foundations-associate-como-foi-a-prova"
-image = "/imagens/2020/04/treinamento-e-certificacoes-oracle-cloud-gratis.jpg"
+image = "/imagens/2020/04/certificacao-oracle-cloud-infrastructure-foundations-associate-como-foi-a-prova-capa.png"
 description = "Na última sexta-feira, 03/04 fiz a prova Oracle Oracle Cloud Infrastructure 2020 Foundations Associate e muita gente me perguntou como foi o exame online, como me preparei, etc. Nesse post vou contar minhas impressões e o material que utilizei para me preparar."
 tags = [
     "Oracle",
@@ -16,7 +16,7 @@ tags = [
     "Certificação Oracle Grátis",
     "Oracle Cloud Infrastructure 2020 Foundations Associate"
 ]
-categories = ["Blog", "Oracle"]
+categories = ["Blog", "Oracle", "Certificação"]
 +++
 
 Olá Homelabers!
@@ -54,8 +54,6 @@ A certificação **Oracle Cloud Infrastructure 2020 Foundations Associate** é a
 A Certificação OCI Foundations fornece aos candidatos conhecimento básico dos principais conceitos de computação em nuvem e entendimento desses serviços no Oracle Cloud Infrastructure. A certificação é destinada a candidatos com formação técnica e não técnica que desejam validar sua compreensão da infraestrutura do Oracle Cloud.
 
 **Público Alvo**: Projetado para profissionais técnicos e não técnicos envolvidos na venda e compra dos serviços Oracle Cloud Infrastructure.
-
-https://www.oracle.com/cloud/iaas/training/foundations.html
 
 ### Detalhes da Certificação:
 
@@ -110,9 +108,9 @@ Ao acessar o site, você deve seguir as instruções para fazer o download do so
 
 Após isso, foi preciso colocar o número do celular para receber um SMS com um link para uma página onde você deve fazer algumas fotos: **Do seu rosto** (atenção especial aqui!!!), do seu documento e dos 4 lados do seu PC mostrando o seu ambiente. 
 
-Quando a prova começar, a sua webcam ficará ligada durante todo o tempo e você poderá abrir um chat com o seu avaliador caso seja necessário. Eu precisei chamar no chat, pois meu notebook tem duas cameras e a imagem que aparecia na tela era a camera traseira. O avaliador disse que as duas estavam sendo monitoradas.
+Quando a prova começar, a sua webcam ficará ligada durante todo o tempo e você poderá abrir um chat com o seu avaliador caso seja necessário. Eu precisei chamar no chat, pois meu notebook tem duas câmeras e a imagem que aparecia na tela era a câmera traseira. O avaliador disse que as duas estavam sendo monitoradas.
 
-Em relação as perguntas, são de multipla escolha. As vezes você precisa escolher mais de uma opção. Você também pode marcar alguma que não sabe para responder no final.
+Em relação as perguntas, são de múltipla escolha. As vezes você precisa escolher mais de uma opção. Você também pode marcar alguma que não sabe para responder no final.
 
 Após finalizar a prova, basta fechar e aguardar o resultado. Você vai receber um e-mail com um link para acessar o resultado.
 
