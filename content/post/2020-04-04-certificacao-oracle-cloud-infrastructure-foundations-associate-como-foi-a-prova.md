@@ -21,12 +21,15 @@ categories = ["Blog", "Oracle", "Certificação"]
 
 Olá Homelabers!
 
+**_Antes de mais nada, você não vai encontrar nenhum DUMP ou respostas da prova aqui! Se é isso que você veio procurar, está no lugar errado! E por favor, nem adianta me pedir! Se tem uma coisa que eu abomino é DUMPEIRO_**
+
 Na última sexta-feira, 03/04 fiz a prova **Oracle Cloud Infrastructure 2020 Foundations Associate** e muita gente me perguntou como foi o exame online, como me preparei, etc. 
 
 A idéia desse post é contar minha experiência, impressões e o material que utilizei para me preparar para a prova.
 
 Se você caiu de paraquedas nesse post, recomendo que pare aqui e **{{< target-blank title="leia esse outro post" url="https://homelaber.com.br/treinamento-certificacao-oracle-cloud-gratis/" >}}**, onde eu falo com detalhes sobre a promoção que a Oracle está fazendo para certificação OCI. Até o dia 15/05 você pode fazer 6 treinamentos + certificação totalmente grátis. **{{< target-blank title="Vai lá" url="https://homelaber.com.br/treinamento-certificacao-oracle-cloud-gratis/" >}}** e depois volte aqui! :) 
 
+{{< target-blank title="" url="" >}}
 ## A Certificação
 ----
 
@@ -41,8 +44,6 @@ A certificação **Oracle Cloud Infrastructure 2020 Foundations Associate** é a
 > A certificação Oracle Cloud Infrastructure (OCI) Foundations destina-se a indivíduos que desejam demonstrar conhecimento fundamental dos serviços de nuvem pública fornecidos pela Oracle Cloud Infrastructure. 
 > Essa certificação é direcionada a candidatos com formação não técnica, como os envolvidos na venda ou aquisição de soluções em nuvem, bem como aqueles com formação técnica que desejam validar seu conhecimento de nível fundamental sobre os principais serviços da OCI. 
 > Este exame não requer nenhuma experiência técnica prática e **não é um pré-requisito para obter outras certificações** OCI.
-
-
 
 ## Informações
 ----
@@ -94,6 +95,8 @@ Eu me preparei para essa prova somente com os vídeos do  {{< target-blank title
 ## Como foi a Prova On-line
 ----
 
+**UPDATE 1:** *O leitor {{< target-blank title="Enrico Castro" url="https://www.linkedin.com/in/enricocastro/" >}} comentou no Linkedin que não conseguiu fazer a prova on-line usando Linux. Ele tentou usar um VM com Windows, mas o software da Pearson Vue detectou e não deixou ele fazer a prova. Então fica a dica, se você somente usar Linux, não vai conseguir fazer a prova!*
+
 Eu nunca havia feito uma prova de certificação on-line, e para ser sincero, a última prova de certificação que eu fiz foi no final dos anos 90, uma prova de Lotus Notes :).
 
 Depois de fazer o registro para a prova e agendar a data, só resta esperar e estudar um pouco mais!
@@ -113,8 +116,6 @@ Após finalizar a prova, basta fechar e aguardar o resultado. Você vai receber 
 Esse video explica direitinho o que eu falei!
 
 {{< youtube Gm1PqdbwBP0 >}}
-
-
 
 ## Dicas para a prova on-line
 ----

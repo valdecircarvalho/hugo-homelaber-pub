@@ -69,7 +69,7 @@ Estão disponíveis 6 treinamentos e certificações, somando **mais de 47 horas
   * Oracle Cloud Infrastructure Architect Associate Workshop
   * Exam Preparation Guide for OCI Architect Associate
   * Prectice Exam for Oracle Cloud Infrastructure Architect Associate
-* Oracle Cloud Infrastructure Architect Professional - + 16 horas de treinamento
+* **Oracle Cloud Infrastructure Architect Professional** - + 16 horas de treinamento
   * Oracle Cloud Infrastructure Architect Professional Workshop
   * Exam Preparation Guide OCI Architect Professional
 
