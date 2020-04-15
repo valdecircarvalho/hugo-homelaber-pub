@@ -26,6 +26,8 @@ Olá Homelabers!
 
 **UPDATE 2:**  _{{< target-blank title="Veja o post" url="/certificacao-oracle-cloud-infrastructure-foundations-associate-como-foi-a-prova" >}} sobre minhas impressões e dicas para a prova Oracle Cloud Infrastructure Foundations Associate._
 
+**UPDATE 3:** _{{< target-blank title="Post do Rohit" url="https://blogs.oracle.com/cloud-infrastructure/oracle-cloud-free-certifications-faq" >}} sobre algumas dificuldades que muitos estão passando para marcar ou realizar as provas._
+
 ---- 
 
 No último dia 30/03 a Oracle {{< target-blank title="anunciou em seu blog" url="https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html" >}} a oferta de cursos on-line e certificações gratuitas para os produtos da linha Oracle Cloud Infrastructure e Oracle Autonomus Database. Até o dia **15 de Maio 2020**, você poderá **fazer a certificação totalmente grátis**.
