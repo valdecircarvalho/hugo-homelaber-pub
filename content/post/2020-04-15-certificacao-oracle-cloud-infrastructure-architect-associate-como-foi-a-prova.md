@@ -1,8 +1,8 @@
 +++
 author = "Valdecir Carvalho"
 title = "Certificação Oracle Cloud Infrastructure 2019 Architect Associate (1Z0-1072) - Como foi a prova"
-date = "2020-04-16 07:00:00"
-publishDate = "2020-04-16 07:00:00"
+date = "2020-04-15 07:00:00"
+publishDate = "2020-04-15 07:00:00"
 type = "post"
 draft = "false"
 url = "/certificacao-oracle-cloud-infrastructure-architect-associate-como-foi-a-prova"
