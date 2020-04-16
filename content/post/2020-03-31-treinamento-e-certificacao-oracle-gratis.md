@@ -24,9 +24,11 @@ Olá Homelabers!
 
 **UPDATE 1:** *Algumas pessoas entraram em contato comigo dizendo que não estavam conseguindo o desconto na Pearson Vue. Para o ativar o desconto de 100%, é preciso acessar a Person Vue pelo link do treinamento - caixinha verde. Veja no final do post, o passo a passo para garantir o desconto.*
 
-**UPDATE 2:**  _{{< target-blank title="Veja o post" url="/certificacao-oracle-cloud-infrastructure-foundations-associate-como-foi-a-prova" >}} sobre minhas impressões e dicas para a prova Oracle Cloud Infrastructure Foundations Associate._
+**UPDATE 2:**  _{{< target-blank title="Veja o post" url="/certificacao-oracle-cloud-infrastructure-foundations-associate-como-foi-a-prova" >}} sobre minhas impressões e dicas para a prova **Oracle Cloud Infrastructure Foundations Associate**._
 
 **UPDATE 3:** _{{< target-blank title="Post do Rohit" url="https://blogs.oracle.com/cloud-infrastructure/oracle-cloud-free-certifications-faq" >}} sobre algumas dificuldades que muitos estão passando para marcar ou realizar as provas._
+
+**UPDATE 4** _{{< target-blank title="Veja o post" url="/certificacao-oracle-cloud-infrastructure-architect-associate-como-foi-a-prova" >}} sobre minhas impressões e dicas para a prova **Oracle Cloud Infrastructure 2019 Architect Associate (1Z0-1072)**._
 
 ---- 
 

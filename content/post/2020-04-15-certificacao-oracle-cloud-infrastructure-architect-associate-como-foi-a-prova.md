@@ -29,13 +29,9 @@ Olá Homelabers!
 
 Na última terça-feira, 14/04 fiz a prova **Oracle Cloud Infrastructure 2019 Architect Associate (1Z0-1072)** e como fiz no último post sobre a certificação Foundations, vou contar minhas impressões sobre a prova e o material que utilizei para me preparar.
 
-Se você caiu de paraquedas nesse post, recomendo que pare aqui e **{{< target-blank title="leia esse outro post" url="https://homelaber.com.br/treinamento-certificacao-oracle-cloud-gratis/" >}}**, onde eu falo com detalhes sobre a promoção que a Oracle está fazendo para certificação OCI. Até o dia 15/05 você pode fazer 6 treinamentos + certificação totalmente grátis. **{{< target-blank title="Vai lá" url="https://homelaber.com.br/treinamento-certificacao-oracle-cloud-gratis/" >}}** e depois volte aqui! :) 
+Se você caiu de paraquedas nesse post, recomendo que pare aqui e **{{< target-blank title="leia esse outro post" url="/treinamento-certificacao-oracle-cloud-gratis/" >}}**, onde eu falo com detalhes sobre a promoção que a Oracle está fazendo para certificação OCI. Até o dia 15/05 você pode fazer 6 treinamentos + certificação totalmente grátis. **{{< target-blank title="Vai lá" url="/treinamento-certificacao-oracle-cloud-gratis/" >}}** e depois volte aqui! :) 
 
-Se você quiser saber mais sobre como foi a prova da certificação **Oracle Cloud Infrastructure 2020 Foundations Associate** é só {{< target-blank title="acessar esse outro post" url="/2020-04-04-certificacao-oracle-cloud-infrastructure-foundations-associate-como-foi-a-prova.md" >}}.
-
-{{< target-blank title="" url="" >}}
-
-![image title](/imagens/2020/MM/imagem.jpg)
+Se você quiser saber mais sobre como foi a prova da certificação **Oracle Cloud Infrastructure 2020 Foundations Associate** é só {{< target-blank title="acessar esse outro post" url="/certificacao-oracle-cloud-infrastructure-foundations-associate-como-foi-a-prova/" >}}.
 
 ## A Certificação
 ----
@@ -132,17 +128,15 @@ Não sei como é a sua forma de estudos, mas eu recomendo demais que você faça
 - {{< target-blank title="Student Guide" url="https://learn.oracle.com/ords/training/DL4_EKITDOCUMENT.getPDF?p_url=_-ENC6E9C0202092241DE3D7B941924AD96ACDA02EAE465334C873F89D7364C401D751DB2A81CF1CA54F4629702BCDEC5A57799BCBE5E8DBAA5B89B1F219909ACB37537DDF38F679E2D580F9523FFAD3240928B3F36335C795428RY-_" >}}
 - {{< target-blank title="White Papers" url="https://docs.cloud.oracle.com/en-us/iaas/Content/General/Reference/aqswhitepapers.htm" >}}
 - {{< target-blank title="Product Documentation" url="https://docs.cloud.oracle.com/en-us/iaas/Content/GSG/Concepts/baremetalintro.htm" >}}
-- {{< target-blank title="OCI User Guide (PDF)" url="(https://docs.cloud.oracle.com/en-us/iaas/pdf/ug/OCI_User_Guide.pdf" >}}
+- {{< target-blank title="OCI User Guide (PDF)" url="https://docs.cloud.oracle.com/en-us/iaas/pdf/ug/OCI_User_Guide.pdf" >}}
 - {{< target-blank title="Oracle Cloud Infrastructure Architect Associate" url="https://learn.oracle.com/ols/learning-path/become-oci-architect-associate/35644/75658" >}}
 
 ## Prova On-line
 ----
-Eu já falei bastante sobre como é a prova on-line no post {{< target-blank title="Certificação Oracle Cloud Infrastructure 2020 Foundations Associate - Como foi a prova" url="/2020-04-04-certificacao-oracle-cloud-infrastructure-foundations-associate-como-foi-a-prova.md" >}}, então recomendo que você leia as dicas lá!
+Eu já falei bastante sobre como é a prova on-line no post {{< target-blank title="Certificação Oracle Cloud Infrastructure 2020 Foundations Associate - Como foi a prova" url="/certificacao-oracle-cloud-infrastructure-foundations-associate-como-foi-a-prova/" >}}, então recomendo que você leia as dicas lá!
 
-Muita gente me procurou e eu também vi em alguns grupos, que algumas pessoas estão tendo dificuldades na hora da realização da prova. Isso está acontecendo devido a demanda gigante. Para tentar evitar isso eu recomendo:
+Muita gente me procurou e eu também vi em alguns grupos, que algumas pessoas estão tendo dificuldades na hora da realização da prova. Isso está acontecendo devido a demanda gigante. Veja o {{< target-blank title="post do Rohit" url="https://blogs.oracle.com/cloud-infrastructure/oracle-cloud-free-certifications-faq" >}} falando sobre esse problema e como proceder.
 
-- Tente se conectar pelo menos uns 20 minutos antes do horário da prova
-- Procure marcar a prova pela manhã bem cedinho para evitar filas.
 
 ## Como foi a prova
 ----
@@ -168,6 +162,8 @@ O tempo é OK para responder todas as perguntas com calma. Não sobra muito, mas
 
 Mais uma vez, a minha foto ficou ridícula! Parece que isso está se tornando uma marca registrada :)
 Mas novamente, o que importa é que eu passei!
+
+![image title](/imagens/2020/04/homer-uhul.gif)
 
 Agora o próximo desafio é a prova *Oracle Autonomous Database Specialist*. Essa vai ser bem mais complicada, porque os meus conhecimentos de banco de dados são bem rasos, mas vou pra cima!
 
