@@ -23,6 +23,8 @@ Olá Homelabers!
 
 **_Antes de mais nada, você não vai encontrar nenhum DUMP ou respostas da prova aqui! Se é isso que você veio procurar, está no lugar errado! E por favor, nem adianta me pedir! Se tem uma coisa que eu abomino é DUMPEIRO_**
 
+_Post atualizado em 13/04/2020_
+
 Na última sexta-feira, 03/04 fiz a prova **Oracle Cloud Infrastructure 2020 Foundations Associate** e muita gente me perguntou como foi o exame online, como me preparei, etc. 
 
 A idéia desse post é contar minha experiência, impressões e o material que utilizei para me preparar para a prova.
@@ -87,7 +89,7 @@ Materiais de estudo recomendados.
 - {{< target-blank title="Study Guide" url="https://www.oracle.com/a/ocom/docs/1Z0-1072-oci-architect-associate-2019-study-guide.pdf" >}}
 - {{< target-blank title="White Papers" url="https://docs.cloud.oracle.com/en-us/iaas/Content/General/Reference/aqswhitepapers.htm" >}}
 - {{< target-blank title="Product Documentation" url="https://docs.cloud.oracle.com/en-us/iaas/Content/GSG/Concepts/baremetalintro.htm" >}}
-- {{< target-blank title="OCI User Guide (PDF)" url="(https://docs.cloud.oracle.com/en-us/iaas/pdf/ug/OCI_User_Guide.pdf" >}}
+- {{< target-blank title="OCI User Guide (PDF)" url="https://docs.cloud.oracle.com/en-us/iaas/pdf/ug/OCI_User_Guide.pdf" >}}
 - {{< target-blank title="Oracle Cloud Infrastructure Foundations Associate" url="https://learn.oracle.com/ols/learning-path/understand-oci-foundations/35644/75258" >}}
 
 Eu me preparei para essa prova somente com os vídeos do  {{< target-blank title="Oracle Cloud Infrastructure Foundations Associate" url="https://learn.oracle.com/ols/learning-path/understand-oci-foundations/35644/75258" >}}
@@ -95,7 +97,11 @@ Eu me preparei para essa prova somente com os vídeos do  {{< target-blank title
 ## Como foi a Prova On-line
 ----
 
-**UPDATE 1:** *O leitor {{< target-blank title="Enrico Castro" url="https://www.linkedin.com/in/enricocastro/" >}} comentou no Linkedin que não conseguiu fazer a prova on-line usando Linux. Ele tentou usar um VM com Windows, mas o software da Pearson Vue detectou e não deixou ele fazer a prova. Então fica a dica, se você somente usar Linux, não vai conseguir fazer a prova!*
+**UPDATE 1:** *O leitor {{< target-blank title="Enrico Castro" url="https://www.linkedin.com/in/enricocastro/" >}} comentou no LinkedIn que não conseguiu fazer a prova on-line usando Linux. Ele tentou usar um VM com Windows, mas o software da Pearson Vue detectou e não deixou ele fazer a prova. Então fica a dica, se você somente usar Linux, não vai conseguir fazer a prova!*
+
+**UPDATE 2:** *O Junior Silva, fez {{< target-blank title="um post bem bacana" url="http://www.unicast.com.br/prova-de-certificacao-em-casa-dicas-e-cuidados/" >}} sobre provas de certificação em casa, com dicas e cuidados. Vale a leitura!*
+
+---- 
 
 Eu nunca havia feito uma prova de certificação on-line, e para ser sincero, a última prova de certificação que eu fiz foi no final dos anos 90, uma prova de Lotus Notes :).
 
@@ -131,7 +137,7 @@ Esse video explica direitinho o que eu falei!
 - Garanta que o seu PC tenha uma webcam.
 
 Tente agendar a sua prova para um horário que você funcione melhor! 
-Eu agendei a minha para as 07:15 da manhã, assim garanti que não haveria ninguem acordado em casa!
+Eu agendei a minha para as 07:15 da manhã, assim garanti que não haveria ninguém acordado em casa!
 
 Faça a prova com calma, se não souber alguma resposta, marque para depois e siga em frente. Esse exame em particular tem bastante tempo. São 105 minutos para 60 perguntas.
 
@@ -142,7 +148,9 @@ Faça a prova com calma, se não souber alguma resposta, marque para depois e si
 
 É, eu sei! Essa foto ficou RIDÍCULA! Não precisa comentar! Mas o importante é que eu passei!
 
-Agora o próximo desafio é a prova **{{< target-blank title="Oracle Cloud Infrastructure Architect Associate" url="https://learn.oracle.com/ols/learning-path/become-oci-architect-associate/35644/75658" >}}**. Essa vai dar um pouco mais de trabalho, mas borá lá!
+~~Agora o próximo desafio é a prova **{{< target-blank title="Oracle Cloud Infrastructure Architect Associate" url="https://learn.oracle.com/ols/learning-path/become-oci-architect-associate/35644/75658" >}}**. Essa vai dar um pouco mais de trabalho, mas borá lá!~~
+
+**UPDATE:** _Eu passei na prova no dia 14/04. {{< target-blank title="Veja o post" url="/certificacao-oracle-cloud-infrastructure-architect-associate-como-foi-a-prova" >}} sobre minhas impressões e dicas para a prova **Oracle Cloud Infrastructure 2019 Architect Associate (1Z0-1072)**._
 
 ----
 
