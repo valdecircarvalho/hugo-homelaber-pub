@@ -2,16 +2,18 @@
 author: Valdecir Carvalho
 date: 2020-04-30 00:00:00+00:00
 draft: false
-title: Oracle Cloud Certifications - Link-O-Rama
+title: Oracle Cloud Certification - Link-O-Rama
 type: page
 url: /oracle-cloud-certifications-link-o-rama/
+image: /imagens/2020/04/oci-certifications-link-o-rama.jpg
+description: Hi! This is Oracle Cloud Certification Link-O-Rama. Here you will find a collection of useful links for Oracle Cloud Infrastructure certifications. This is a compilation from Oracle official website and community links. You won't find here any links to exam dumps or commercial websites.
 ---
 
 ![image title](/imagens/2020/04/oci-certification-link-o-rama-logo.png)
 
 ## Link-O-Rama
 ----
-Here you will find a collection of useful links for Oracle Cloud Infrastructure certifications. This is a compilation from Oracle oficial website and community links. You won't find here any links to exam dumps or commercial websites. 
+Here you will find a collection of useful links for Oracle Cloud Infrastructure certifications. This is a compilation from Oracle official website and community links. You won't find here any links to exam dumps or commercial websites. 
 
 Please **DON'T ASK ME FOR EXAM DUMPS!!!**
 
