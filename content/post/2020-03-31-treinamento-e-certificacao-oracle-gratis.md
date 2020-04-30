@@ -30,6 +30,10 @@ Olá Homelabers!
 
 **UPDATE 4** _{{< target-blank title="Veja o post" url="/certificacao-oracle-cloud-infrastructure-architect-associate-como-foi-a-prova" >}} sobre minhas impressões e dicas para a prova **Oracle Cloud Infrastructure 2019 Architect Associate (1Z0-1072)**._
 
+**UPDATE 5** _{{< target-blank title="Veja o post" url="/video-certificacao-oracle-oci-link-o-rama" >}} com minha apresentação no OCI in Pocket sobre Certificações Oracle Cloud_
+
+**UPDATE 6** _{{< target-blank title="OCI Certification - Link-O-Rama" url="/oracle-cloud-certifications-link-o-rama" >}} um compilado de links sobre as certificação Oracle Cloud Infrastructure_
+
 ---- 
 
 No último dia 30/03 a Oracle {{< target-blank title="anunciou em seu blog" url="https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html" >}} a oferta de cursos on-line e certificações gratuitas para os produtos da linha Oracle Cloud Infrastructure e Oracle Autonomus Database. Até o dia **15 de Maio 2020**, você poderá **fazer a certificação totalmente grátis**.
