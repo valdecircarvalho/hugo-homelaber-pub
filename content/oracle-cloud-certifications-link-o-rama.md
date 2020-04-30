@@ -15,7 +15,7 @@ description: Hi! This is Oracle Cloud Certification Link-O-Rama. Here you will f
 ----
 Here you will find a collection of useful links for Oracle Cloud Infrastructure certifications. This is a compilation from Oracle official website and community links. You won't find here any links to exam dumps or commercial websites. 
 
-Please **DON'T ASK ME FOR EXAM DUMPS!!!**
+Please **DON'T ASK FOR EXAM DUMPS!!!**
 
 If you want to add or correct any link or information on this page, please ping me on twitter [@homelaber](https://twitter.com/homelaber)
 
@@ -27,7 +27,7 @@ If you want to add or correct any link or information on this page, please ping 
 - 1Z0-997 - Oracle Cloud Infrastructure 2019 Certified Architect Professional
 - 1Z0-1076 - Oracle Cloud Infrastructure 2019 Certified Cloud Operations Associate
 - 1Z0-1084-20 - Oracle Cloud Infrastructure Developer 2020 Certified Associate
-- 1Z0-1084-20 - Oracle Autonomous Database Cloud 2019 Specialist 
+- 1Z0-931 - Oracle Autonomous Database Cloud 2019 Specialist 
 
 ----
 
