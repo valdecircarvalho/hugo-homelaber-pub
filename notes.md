@@ -8,10 +8,10 @@
 
 - [ ] VeeamON 2020 - https://www.veeam.com/veeamon
 - [ ] VMware vExpert PRO 2020
-- [ ] Certificações Oracle
+- [X] Certificações Oracle
 - [ ] Windows WSL
 - [ ] Como criar um blog com Hugo
-- [ ] Krisp
+- [X] Krisp
 - [ ] VeeamPN
 - [ ] OCI Free Tier
 - [ ] Jitsi Meet
