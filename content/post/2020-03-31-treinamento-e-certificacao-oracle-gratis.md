@@ -34,6 +34,8 @@ Olá Homelabers!
 
 **UPDATE 6** _{{< target-blank title="OCI Certification - Link-O-Rama" url="/oracle-cloud-certifications-link-o-rama" >}} um compilado de links sobre as certificação Oracle Cloud Infrastructure_
 
+**UPDATE 7** _Muita gente tem me procurado porque não está conseguindo agendar as provas na Pearson Vue. Também vi muita gente com o mesmo problema no Telegram e no LinkedIn. Essa não é uma resposta oficial da Oracle e sim uma opinião pessoal. Eu acredito que as datas disponíveis estejam chegando ao fim. A dica que dou é ficar tentando no site! Como o prazo está chegando ao final, a demanda deve estar enorme! Não deixe para a última hora! Mesmo se você ainda estiver estudando, já agende a sua prova._
+
 ---- 
 
 No último dia 30/03 a Oracle {{< target-blank title="anunciou em seu blog" url="https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html" >}} a oferta de cursos on-line e certificações gratuitas para os produtos da linha Oracle Cloud Infrastructure e Oracle Autonomus Database. Até o dia **15 de Maio 2020**, você poderá **fazer a certificação totalmente grátis**.
