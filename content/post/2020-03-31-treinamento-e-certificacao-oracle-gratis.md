@@ -12,13 +12,19 @@ tags = [
     "Oracle",
     "OCI",
     "Treinamento",
-	"Certificação",
-    "Certificação Oracle Grátis"
+	  "Certificação",
+    "Certificação Oracle Grátis",
+    "Treinamento Oracle Grátis",
+    "Treinamento Oracle Cloud Grátis",
+    "Prova certificação Oracle Cloud Grátis",
+    "voucher prova oracle cloud grátis"
 ]
-categories = ["Blog", "Oracle"]
+categories = ["Blog", "Oracle", "Certificação"]
 +++
 
 Olá Homelabers!
+
+### ATENÇÃO, SE VOCÊ ESTÁ CHEGANDO AGORA NESSE POST, POR FAVOR, LEIA AS ATUALIZAÇÕES ABAIXO. EM ESPECIAL O UPDATE #9 DE 07/05/2020**
 
 ----
 
@@ -35,6 +41,20 @@ Olá Homelabers!
 **UPDATE 6** _{{< target-blank title="OCI Certification - Link-O-Rama" url="/oracle-cloud-certifications-link-o-rama" >}} um compilado de links sobre as certificação Oracle Cloud Infrastructure_
 
 **UPDATE 7** _Muita gente tem me procurado porque não está conseguindo agendar as provas na Pearson Vue. Também vi muita gente com o mesmo problema no Telegram e no LinkedIn. Essa não é uma resposta oficial da Oracle e sim uma opinião pessoal. Eu acredito que as datas disponíveis estejam chegando ao fim. A dica que dou é ficar tentando no site! Como o prazo está chegando ao final, a demanda deve estar enorme! Não deixe para a última hora! Mesmo se você ainda estiver estudando, já agende a sua prova._
+
+**UPDATE 8 (06/05/2020)** _Ao que parece, não é mais possível fazer o agendamento para as provas. De acordo com o tuite do Rohit Rahi da Oracle, todos os slots disponíveis para agendamento da prova se esgotaram e que estão tentando trabalhar em uma solução. Ele ainda postou no LinkedIn que todos os cursos serão FREE FORVER e não mais até o dia 15/05/2020 e eu vejo que essa é a boa notícia. Esses treinamentos custam mais de 3000 doláres. Se você não conseguiu fazer o exame, pode ao menos continuar estudando e tentar a prova depois._
+
+{{< tweet 1257823082627993600 >}}
+
+![image title](/imagens/2020/04/photo_2020-05-07_00-37-47.jpg)
+
+
+**UPDATE 9 (07/05/2020)** _Acabei de ver um tuite da Oracle se pronunciando sobre o esgotamento dos slots para as provas. O tuite diz para visitar uma página promocional ({{< target-blank title="link" url="https://www.oracle.com/education/" >}}), preencher um formulário que eles irão entrar em contato posteriormente sobre o exame grátis. Não há nenhuma menção de data ou algo assim, apenas um formulário. **Para saber como se cadastrar, role até o final-final do post**, onde eu mostro o passo-a-passo._ 
+
+_Pessoal, por favor, não atirem no menssageiro. Estou apenas trazendo as informações que tenho para divulgar. Entendo a frustração daqueles que estudaram não conseguiram agendar a prova, esse conhecimento ninguém tira de vocês, mas não me culpem e nem culpem a Oracle. Aprendam a não deixar para fazer tudo na última hora. #ficaadica_ 
+
+{{< tweet 1258174213157871622 >}}
+
 
 ---- 
 
@@ -157,5 +177,31 @@ Depois disso, basta começar a estudar e se preparar para os exames de certifica
 Então, o que você está esperando? Sou bastante suspeito para falar, mas a Cloud Oracle está ganhando cada vez mais relevância no mercado e se você se preparar e se certificar, vai sair na frente da concorrência
 
 Até a próxima pessoal!
+
+**UPDATE 9 (07/05/2020)**
+Como dito lá no começo do post, hoje 07/05/2020, devido a alta demanda, não existem mais slots disponíveis para agendar a prova de certificação com desconto. 
+
+**Se você não conseguiu agendar a sua prova, siga os passos abaixo:**
+
+1. Acesse o link https://www.oracle.com/education/
+
+2. Escolha o exame que você deseja fazer no quadrado cinza da direita
+ ![image title](/imagens/2020/04/2020-05-07-A.png)
+3. Você será levado para o site da Oracle University - o mesmo que você fez o curso.
+   
+4. Clique no link da certificação - o quadradinho verde - como see fosse agendar a prova.
+![image title](/imagens/2020/04/2020-05-07-B.png)
+5. Você será levado para o site da PearsonVue onde deverá preencher um formulário.
+![image title](/imagens/2020/04/2020-05-07-C.png)
+6. Preencha o formulário e clique em REGISTER.
+
+Até o momento **não tenho nenhuma informação de quando e como irão entrar em contato**. Meu conselho é que você preencha o formulário e aguarde. Fique de olho no twitter da {{< target-blank title="@Oracle" url="https://twitter.com/Oracle/" >}} e do {{< target-blank title="@rohitrahi" url="https://twitter.com/rohitrahi" >}}, certamente eles irão postar algo sobre o assunto. 
+
+Assim que eu tiver alguma novidade, volto aqui para atualizar esse post.
+
+
+Outra dica é participar do Grupo de Usuários Oracle Cloud Brasil no Telegram. ({{< target-blank title="Clique para abrir o Telegram" url="https://t.me/GUOCB" >}})
+
+
 
 ----
