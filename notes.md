@@ -23,6 +23,12 @@
 - [ ] MinIO News
 - [ ] Lab MinIO Veeam
 - [ ] Terraform + OCI 
+- [ ] OCVS
+- [ ] Monitoramento + OCI
+- [ ] LAB OCI Storage Gateway
+- [ ] https://www.vembu.com/blog/importing-oracle-virtualbox-vm-to-oracle-cloud-infrastructure/
+- [ ] https://www.vembu.com/blog/integrating-oracle-vm-virtualbox-to-oracle-cloud-infrastructure/
+- 
 
 ## Post Schedule
 

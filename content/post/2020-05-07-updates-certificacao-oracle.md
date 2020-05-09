@@ -22,13 +22,16 @@ tags = [
 ]
 categories = ["Blog", "Oracle", "Certificação"]
 +++
+### UPDATE 10 (08/05/2020) - Sobre o agendamento das provas de certificação OCI
 
 ![image title](/imagens/2020/04/updates-treinamento-e-certificacoes-oracle-cloud-gratis.jpg)
 
-### UPDATE 9 (07/05/2020) - Sobre o agendamento das provas de certificação OCI
+ ### OS AGENDAMENTOS PARA AS PROVAS DE CERTIFICAÇÃO ORACLE CLOUD FORAM REABERTOS
 
- **Não é mais possível fazer o agendamento para as provas**, pois os slots disponíveis na Pearson VUE estão esgotados.
+> A Oracle se {{< target-blank title="se pronunciou no Twitter" url="https://twitter.com/homelaber/status/1258917616007200768?s=20" >}}  que mais slots estão disponíveis e o agendamento das provas foi liberado novamente.
 
-> A Oracle se pronunciou no twitter sobre o esgotamento dos slots para as provas. O tuite diz para visitar uma página promocional, preencher um formulário que eles irão entrar em contato posteriormente sobre o exame grátis.
+Aproveite e se você ainda não agendou a sua prova, faça agora mesmo!
 
-Se você **não conseguiu agendar a sua prova**, acesse o {{< target-blank title="link" url="https://homelaber.com.br/treinamento-certificacao-oracle-cloud-gratis/" >}} para mais informações
+Acesse o {{< target-blank title="link" url="https://homelaber.com.br/treinamento-certificacao-oracle-cloud-gratis/" >}} para mais informações
+
+![image title](/imagens/2020/05/ruuuuunnnnnnnnnnnn.gif)

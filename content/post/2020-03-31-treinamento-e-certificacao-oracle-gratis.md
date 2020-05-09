@@ -24,7 +24,7 @@ categories = ["Blog", "Oracle", "Certificação"]
 
 Olá Homelabers!
 
-### ATENÇÃO, SE VOCÊ ESTÁ CHEGANDO AGORA NESSE POST, POR FAVOR, LEIA AS ATUALIZAÇÕES ABAIXO. EM ESPECIAL O UPDATE #9 DE 07/05/2020**
+### ATENÇÃO, SE VOCÊ ESTÁ CHEGANDO AGORA NESSE POST, POR FAVOR, LEIA AS ATUALIZAÇÕES ABAIXO. EM ESPECIAL O UPDATE #10 DE 08/05/2020
 
 ----
 
@@ -55,6 +55,18 @@ _Pessoal, por favor, não atirem no menssageiro. Estou apenas trazendo as inform
 
 {{< tweet 1258174213157871622 >}}
 
+**UPDATE 10 (08/05/2020)** _Antes de mais nada, eu acho que nunca fiz tantas atualizações em um único post :) **Bom, vamos as notícias boas**: A Oracle publicou no seu twitter agora pouco que mais slots para agendamento das provas de certificação grátis foram reabertos, ou seja, **você já pode voltar a marcar a sua prova de certificação Oracle Cloud totalmente grátis ATÉ O DIA 15/05**. Já vi alguns relatos que **as provas estão sendo agendadas para até 15 de agosto 2020**, mas eu não testei ainda (vim correndo atualizar o post para vocês). Lembrando que o processo é o mesmo!_
+
+- _As provas podem ser **agendadas até 15/05/2020**_
+- _As provas podem ser **realizadas até 15/08/2020**_
+
+_Fiquem ligados e **NÃO DEIXEM PARA A ÚLTIMA HORA!**_
+
+{{< tweet 1258907152544002048 >}}
+
+{{< tweet 1258864268470095872 >}}
+
+![image title](/imagens/2020/05/run-forrent-run.gif)
 
 ---- 
 
