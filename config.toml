@@ -9,6 +9,8 @@ enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
 canonifyURLs = true
+relativeURLs = true
+uglyurls = true
 # Set content editor
 newContentEditor = "code"
 
